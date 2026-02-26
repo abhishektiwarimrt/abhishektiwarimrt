@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek Tiwari 👋
 
-### Software Developer | .NET Specialist | Microservices Enthusiast | AI/ML Explorer
+### Software Developer | .NET | Microservices | Distributed Systems | AI/ML Explorer
 
 I am a passionate Backend Developer focused on building high-performance, scalable systems. My core expertise lies in the **.NET ecosystem** and **Distributed Architectures**, and I am currently expanding my horizons into **Artificial Intelligence** and **Machine Learning**.
 
