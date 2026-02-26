@@ -36,9 +36,11 @@ I'm currently diving deep into the world of data science and intelligent systems
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app[abhishektiwarimrt]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app[abhishektiwarimrt]&layout=compact&theme=radical)
+## Github Stats
+![Abhishek's GitHub stats](https://github-stats-extended.vercel.app/api?username=abhishektiwarimrt)
+
+![Abhishek's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=abhishektiwarimrt&layout=compact)
+
 
 ---
 
