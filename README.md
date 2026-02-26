@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm [Abhishek Tiwari] 👋
 
-<!--
-**abhishektiwarimrt/abhishektiwarimrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | .NET Specialist | Microservices Enthusiast | AI/ML Explorer
 
-Here are some ideas to get you started:
+I am a passionate Backend Developer focused on building high-performance, scalable systems. My core expertise lies in the **.NET ecosystem** and **Distributed Architectures**, and I am currently expanding my horizons into **Artificial Intelligence** and **Machine Learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Backend & Core**
+![.NET](https://img.shields.io)
+![C#](https://img.shields.io)
+![ASP.NET Core](https://img.shields.io)
+![Entity Framework](https://img.shields.io)
+
+**Architecture & APIs**
+![Microservices](https://img.shields.io)
+![REST API](https://img.shields.io)
+![gRPC](https://img.shields.io)
+![RabbitMQ](https://img.shields.io)
+
+**Data & Cloud**
+![SQL Server](https://img.shields.io)
+![Redis](https://img.shields.io)
+![Docker](https://img.shields.io)
+![Azure](https://img.shields.io)
+
+---
+
+### 🧠 Current Learning Journey: AI & ML
+I'm currently diving deep into the world of data science and intelligent systems:
+*   🌱 Learning **Python** for Data Science & PyTorch.
+*   🔭 Exploring **ML.NET** for integrating models into .NET apps.
+*   ⚡ Building **Generative AI** wrappers and LLM integrations.
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app[abhishektiwarimrt]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app[abhishektiwarimrt]&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me
+*   **LinkedIn**: [://linkedin.com[your-id]](https://in.linkedin.com/in/aabhishektiwari)
+*   **Portfolio**: [[your-website.com]](https://gamma.app/docs/Abhishek-Tiwari-j2zssmpat25zkhs)
+*   **Email**: [[your-email@example.com]](mailto:abhishektiwarimrt@gmail.com)
+
+---
+*“Building scalable systems today, and teaching them to think tomorrow.”*
