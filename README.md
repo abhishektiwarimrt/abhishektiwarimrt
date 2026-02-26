@@ -1,4 +1,4 @@
-# Hi there, I'm [Abhishek Tiwari] 👋
+# Hi there, I'm Abhishek Tiwari 👋
 
 ### Software Developer | .NET Specialist | Microservices Enthusiast | AI/ML Explorer
 
