@@ -26,8 +26,8 @@ I am a passionate Backend Developer focused on building high-performance, scalab
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=plastic)
-![Azure](https://img.shields.io/badge/Cloude-Microsoft_Azure-blue?logo=microsoftazure&logoColor=white&style=plastic)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Cloude-Microsoft_Azure-blue?logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Cloud-Amazon_AWS-blue?logo=amazonaws)
 
 ---
