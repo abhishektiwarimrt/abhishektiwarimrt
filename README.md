@@ -21,7 +21,7 @@ I am a passionate Backend Developer focused on building high-performance, scalab
 ![RabbitMQ](https://img.shields.io)
 
 **Data & Cloud**
-![SQL Server](https://img.shields.io)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
 ![Redis](https://img.shields.io)
 ![Docker](https://img.shields.io)
 ![Azure](https://img.shields.io)
