@@ -16,16 +16,19 @@ I am a passionate Backend Developer focused on building high-performance, scalab
 
 
 **Architecture & APIs**
-![Microservices](https://img.shields.io)
-![REST API](https://img.shields.io)
-![gRPC](https://img.shields.io)
-![RabbitMQ](https://img.shields.io)
+![Microservices](https://img.shields.io/badge/Microservices-green?logo=.Net&logoColor=white&labelColor=blue)
+![REST API](https://img.shields.io/badge/Rest_API-white?logo=.Net&logoColor=white&labelColor=blue)
+![gRPC](https://img.shields.io/badge/gRPC-green?logo=.Net&logoColor=white&labelColor=blue)
+![RabbitMQ](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&amp;logoColor=white)
 
 **Data & Cloud**
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
-![Redis](https://img.shields.io)
-![Docker](https://img.shields.io)
-![Azure](https://img.shields.io)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/Cloude-Microsoft_Azure-blue?logo=microsoftazure&logoColor=white&style=plastic)
+![AWS](https://img.shields.io/badge/Cloud-Amazon_AWS-blue?logo=amazonaws)
 
 ---
 
