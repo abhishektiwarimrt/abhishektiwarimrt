@@ -11,7 +11,7 @@ I am a passionate Backend Developer focused on building high-performance, scalab
 **Backend & Core**
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET Core-5C2D91?style=badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=badge&logo=.net&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-8C3D65?logo=dotnet&logoColor=white)
 
 
