@@ -34,9 +34,9 @@ I am a passionate Backend Developer focused on building high-performance, scalab
 
 ### 🧠 Current Learning Journey: AI & ML
 I'm currently diving deep into the world of data science and intelligent systems:
-*   🌱 Learning **Python** for Data Science & PyTorch.
-*   🔭 Exploring **ML.NET** for integrating models into .NET apps.
-*   ⚡ Building **Generative AI** wrappers and LLM integrations.
+*   🌱 Learning **Python, PyTorch, and data science fundamentals**.
+*   🔭 Exploring **LLM development using Python**, experimenting with model building and integrations.
+*   ⚡ Building **Generative AI** wrappers and **LLM integrations**.
 
 ---
 
