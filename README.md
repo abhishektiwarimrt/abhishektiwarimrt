@@ -50,9 +50,9 @@ I'm currently diving deep into the world of data science and intelligent systems
 
 ### 📫 Connect with me
 
-*   **LinkedIn**: (https://linkedin.com/aabhishektiwari)
-*   **Portfolio**: [[your-website.com]](https://gamma.app/docs/Abhishek-Tiwari-j2zssmpat25zkhs)
-*   **Email**: [[your-email@example.com]](mailto:abhishektiwarimrt@gmail.com)
+*   **LinkedIn**: [[my-LinkedIn]](https://linkedin.com/aabhishektiwari)
+*   **Portfolio**: [[my-website]](https://gamma.app/docs/Abhishek-Tiwari-j2zssmpat25zkhs)
+*   **Email**: [[abhishektiwarimrt@gmail.com]](mailto:abhishektiwarimrt@gmail.com)
 
 ---
 *“Building scalable systems today, and teaching them to think tomorrow.”*
