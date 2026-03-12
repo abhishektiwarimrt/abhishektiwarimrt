@@ -50,7 +50,7 @@ I'm currently diving deep into the world of data science and intelligent systems
 
 ### 📫 Connect with me
 
-*   **LinkedIn**: [<link rel="shortcut icon" type="image/x-icon" href="https://images.seeklogo.com/logo-png/44/1/web-site-www-icon-logo-png_seeklogo-446764.png">](https://linkedin.com/aabhishektiwari)
+*   **LinkedIn**: (https://linkedin.com/aabhishektiwari)
 *   **Portfolio**: [[your-website.com]](https://gamma.app/docs/Abhishek-Tiwari-j2zssmpat25zkhs)
 *   **Email**: [[your-email@example.com]](mailto:abhishektiwarimrt@gmail.com)
 
